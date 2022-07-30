@@ -22,7 +22,7 @@ defmodule FirstLibrary.MixProject do
 
   defp package do
     [
-      files: ["lib", "mix.exs", "README*", "LICENSE*"],
+      files: ["lib", "mix.exs", "README*"],
       maintainers: ["Andrés Contreras"],
       licenses: ["MIT"],
       links: %{"GitHub" => "https://github.com/ingluisandres/first_library"}
